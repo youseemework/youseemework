@@ -61,5 +61,3 @@
 <a href="https://instagram.com/utkarsh_chidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarsh_chidar" height="4%" width="4%" /> </a>
 </p>
 </div>
-
-<hr></hr>
