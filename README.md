@@ -16,11 +16,11 @@
 <hr></hr>
 </div>
 
--  <img alt="GIF" src="https://github.com/youseemework/youseemework/blob/main/images/office.gif" width="20" /> &nbsp; **`DevOps Specialist @ Accenture`**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" /><br>
+- <img alt="GIF" src="https://github.com/youseemework/youseemework/blob/main/images/office.gif" width="22" /> &nbsp; **`DevOps Specialist @ Accenture.`** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" /><br>
 - <img src="https://github.com/youseemework/youseemework/blob/main/images/Developer.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  Currently learning **MLOps and AIOps**. <br>
 - <img src="https://github.com/youseemework/youseemework/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Exploring : **MCP Servers, RAG Projects, N8N automation and many more stuff**. <br>
-- <img src="https://github.com/youseemework/youseemework/blob/main/images/message.gif?raw=true" width="20" />&nbsp;&nbsp; Ask me for help on **Azure DevOps, Terraform, Kubernetes, Docker, Azure, GCP**. <br>
-- <img src="https://github.com/youseemework/youseemework/blob/main/images/letterbox.gif?raw=true" width="20" /> &nbsp; You can reach me on **youseemework@gmail.com or chidar.utkarsh18@gmail.com**<br>
+- <img src="https://github.com/youseemework/youseemework/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me for help on **Azure DevOps, Terraform, Kubernetes, Docker, Azure, GCP**. <br>
+- <img src="https://github.com/youseemework/youseemework/blob/main/images/letterbox.gif?raw=true" width="24" /> &nbsp; You can reach me on **youseemework@gmail.com or chidar.utkarsh18@gmail.com**<br>
 - &nbsp;&nbsp;<img src="https://github.com/youseemework/youseemework/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.
 
 <br>
@@ -31,8 +31,8 @@
 <details>
   <summary> Open to be Surprised </summary>
 <!-- <p><strong> <summary>  Open to be Surprised :   </summary> </strong></p> -->
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+  
+[Click to have some fun](https://matias.me/nsfw/) <be>
 
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="4%" alt="It's working!"/>
