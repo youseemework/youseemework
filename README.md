@@ -2,13 +2,8 @@
 <br>
 <div align="center" width="100">
 
-<!-- # 🐐 Utkarsh Chidar
-**`DevOps Specialist @ Accenture`** 
 
-# Hi 👋, I'm Utkarsh Chidar -->
-
-
-<img src="https://github.com/youseemework/youseemework/blob/main/images/Hello_DevOps.gif?raw=true" href="https://github.com/youseemework" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/youseemework/youseemework/blob/main/images/Hello_DevOps.gif?raw=true" href="https://github.com/youseemework" alt="Hello Coders" height="210" width="650"/> <br>
 <img src="https://github.com/youseemework/youseemework/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/youseemework" alt="Workspace"  width="40%"/><br> 
 <br>
 <hr></hr>
