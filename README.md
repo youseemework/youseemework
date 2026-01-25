@@ -14,7 +14,7 @@
 <hr></hr>
 </div>
 
-- <img alt="GIF" src="https://github.com/youseemework/youseemework/blob/main/images/office.gif" width="22" /> &nbsp; **`DevOps Specialist @ Accenture.`** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Badmash Penguin" width="18%" /><br>
+- <img alt="GIF" src="https://github.com/youseemework/youseemework/blob/main/images/office.gif?raw=true" width="22" /> &nbsp; **`DevOps Specialist @ Accenture.`** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Badmash Penguin" width="18%" /><br>
 - <img src="https://github.com/youseemework/youseemework/blob/main/images/Developer.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  Currently learning **MLOps and AIOps**. <br>
 - <img src="https://github.com/youseemework/youseemework/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Exploring : **MCP Servers, RAG Projects, N8N automation and many more stuff**. <br>
 - <img src="https://github.com/youseemework/youseemework/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me for help on **Azure DevOps, Terraform, Kubernetes, Docker, Azure, GCP**. <br>
