@@ -29,8 +29,13 @@
 <details>
   <summary> Open to be Surprised </summary>
 <!-- <p><strong> <summary>  Open to be Surprised :   </summary> </strong></p> -->
-  
-[Click to have some fun](https://matias.me/nsfw/) <be>
+
+<br>
+
+[Click to Dance and have some fun](https://matias.me/nsfw/) <be>
+
+[Click to play Tic Tac Toe](https://github.com/youseemework/TicTacToeOnGITHUB/blob/main/README.md) <be>
+
 
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="4%" alt="It's working!"/>
