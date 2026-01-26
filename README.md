@@ -29,7 +29,7 @@
 
 [Click to Dance and have some fun](https://matias.me/nsfw/) <be>
 
-[Click to play Tic Tac Toe](https://github.com/youseemework/TicTacToeOnGITHUB/blob/main/README.md) <be>
+[Click to play Tic Tac Toe](https://github.com/youseemework/TicTacToeOnGITHUB/blob/Master/README.md) <be>
 
 
 <br>
