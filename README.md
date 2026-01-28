@@ -27,17 +27,15 @@
 
 <br>
 
-[Click to Dance and have some fun](https://matias.me/nsfw/) <be>
+[✨ Click to Dance and have some fun ✨](https://matias.me/nsfw/) <be>
 
-[Click to play Tic Tac Toe](https://github.com/youseemework/TicTacToeOnGITHUB/blob/Master/README.md) <be>
+[✨ Click to play Tic Tac Toe ✨](https://github.com/youseemework/TicTacToeOnGITHUB/blob/Master/README.md) <be>
+
+<h5 align="center">✨ My Little Snake Game 🐍 ✨ </h5>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/youseemework/youseemework/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -75,11 +73,6 @@
 ###
 
 
-###
-
-<img src="https://raw.githubusercontent.com/youseemework/youseemework/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br>
 
