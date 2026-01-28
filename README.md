@@ -27,10 +27,17 @@
 
 <br>
 
-[Click to Dance and have some fun](https://matias.me/nsfw/) <be>
+[✨ Click to Dance and have some fun ✨](https://matias.me/nsfw/) <be>
 
-[Click to play Tic Tac Toe](https://github.com/youseemework/TicTacToeOnGITHUB/blob/Master/README.md) <be>
+[✨ Click to play Tic Tac Toe ✨](https://github.com/youseemework/TicTacToeOnGITHUB/blob/Master/README.md) <be>
 
+<h5 align="center">✨ My Little Snake Game 🐍 ✨ </h5>
+
+###
+
+<img src="https://raw.githubusercontent.com/youseemework/youseemework/output/snake.svg" alt="Snake animation" />
+
+###
 
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="4%" alt="It's working!"/>
@@ -52,6 +59,20 @@
     <img src="https://skillicons.dev/icons?i=azure,gcp,aws,terraform,docker,kubernetes,ansible,jenkins,grafana,prometheus,nginx,postgres,kafka,postman,linux,redhat,ubuntu,bash,vim,windows,powershell,git,github,cpp,java,nodejs,go,maven,mysql,gmail,vscode,obsidian,notion&perline=11&theme=dark" />
   </a>
 </p>
+
+<br>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph-dark.svg">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph.svg"> -->
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
 
 <br>
 
