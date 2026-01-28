@@ -39,6 +39,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="4%" alt="It's working!"/>
@@ -62,6 +63,17 @@
 </p>
 
 <br>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 ###
 
