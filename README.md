@@ -39,12 +39,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/youseemework/youseemework/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/youseemework/youseemework/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="4%" alt="It's working!"/>
@@ -66,6 +60,14 @@
     <img src="https://skillicons.dev/icons?i=azure,gcp,aws,terraform,docker,kubernetes,ansible,jenkins,grafana,prometheus,nginx,postgres,kafka,postman,linux,redhat,ubuntu,bash,vim,windows,powershell,git,github,cpp,java,nodejs,go,maven,mysql,gmail,vscode,obsidian,notion&perline=11&theme=dark" />
   </a>
 </p>
+
+<br>
+
+###
+
+<img src="https://raw.githubusercontent.com/youseemework/youseemework/output/snake.svg" alt="Snake animation" />
+
+###
 
 <br>
 
